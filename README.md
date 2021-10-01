@@ -1,9 +1,9 @@
-Alt-H1 Tech Opgave
+# Delfinen
 
 Dette er mit projekt fra første semester som er et program for en svømmehal.
 
 
-Alt-H1 Prerequisites
+# Prerequisites
 
 Kun admins kan logge på og der er 4 slags admins:
 
@@ -13,13 +13,19 @@ Kun admins kan logge på og der er 4 slags admins:
 * Kasserer
 
 
-# Ved brug:
+# Installing "Delfinen"
+
+For windows:
+<install_command>
+
+
+# Using "Delfinen":
 
 * Log ind som den rolle du har i svømmehallen
 * Følg instrukserne for at fuldføre dit arbejde
 
 
-# 
+# Contribute to project "Delfinen"
 
 To contribute to "Delfinen", follow these steps:
 
@@ -30,6 +36,15 @@ To contribute to "Delfinen", follow these steps:
 5. Create the pull request.
 
 
-# Lavet af:
+# Contributors:
 
 Christoffer P
+
+
+# Contact
+
+If you want to contact me you can reach me at your_email@address.com
+
+
+# License
+# This project uses the following license: <license_name>.
