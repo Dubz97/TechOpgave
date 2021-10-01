@@ -47,4 +47,4 @@ If you want to contact me you can reach me at your_email@address.com
 
 
 # License
-# This project uses the following license: <license_name>.
+This project uses the following license: <license_name>.
